@@ -1,7 +1,7 @@
 # Current main architecture packages
 
 This branch is generated after all package checks pass.
-Packages were built from main commit `1cc80fd6a2b250c11b688e7a26d2f078c0408ce7`.
+Packages were built from main commit `c673a20a626b0993b27766c4180d5bf8a2349ffe`.
 Folder names are exact OpenWrt `DISTRIB_ARCH` values.
 Codec placeholders are filled by the separate codec-snapshot build.
 Do not edit this branch manually.
