@@ -1,12 +1,12 @@
 {
-  "application_version": "1.2.0",
+  "application_version": "1.1.0",
   "architecture_count": 37,
   "architectures": {
     "aarch64_cortex-a53": {
       "apk": {
         "application": {
-          "file": "luci-app-videoplayer-1.2.0.apk",
-          "sha256": "d1ac1f77a66e15b3dd9e1ace585b477b6f01451ee0ed4e06449da48d593cfb07"
+          "file": "luci-app-videoplayer-1.1.0.apk",
+          "sha256": "d695b52241ba5391f637ae4f09d0cc8a4f1e4d7f3f2d537b99bdfbd645f26da9"
         },
         "codec": null,
         "directory": "aarch64_cortex-a53/openwrt-25.12.5-r33051-f5dae5ece4",
@@ -16,8 +16,8 @@
       },
       "ipk": {
         "application": {
-          "file": "luci-app-videoplayer_1.2.0_all.ipk",
-          "sha256": "da49a020def4aae7bf73e742a9d31b1f9d9becf7c57d64ba1ca0c0a4afbf1f25"
+          "file": "luci-app-videoplayer_1.1.0_all.ipk",
+          "sha256": "f037d5c34acc27b4c70903ad6d2ea6e49dd2b41b81b8778e8a678a70735ad582"
         },
         "codec": null,
         "directory": "aarch64_cortex-a53/openwrt-24.10.8-r29233-443ec4032a",
@@ -29,8 +29,8 @@
     "aarch64_cortex-a72": {
       "apk": {
         "application": {
-          "file": "luci-app-videoplayer-1.2.0.apk",
-          "sha256": "d1ac1f77a66e15b3dd9e1ace585b477b6f01451ee0ed4e06449da48d593cfb07"
+          "file": "luci-app-videoplayer-1.1.0.apk",
+          "sha256": "d695b52241ba5391f637ae4f09d0cc8a4f1e4d7f3f2d537b99bdfbd645f26da9"
         },
         "codec": null,
         "directory": "aarch64_cortex-a72/openwrt-25.12.5-r33051-f5dae5ece4",
@@ -40,8 +40,8 @@
       },
       "ipk": {
         "application": {
-          "file": "luci-app-videoplayer_1.2.0_all.ipk",
-          "sha256": "da49a020def4aae7bf73e742a9d31b1f9d9becf7c57d64ba1ca0c0a4afbf1f25"
+          "file": "luci-app-videoplayer_1.1.0_all.ipk",
+          "sha256": "f037d5c34acc27b4c70903ad6d2ea6e49dd2b41b81b8778e8a678a70735ad582"
         },
         "codec": null,
         "directory": "aarch64_cortex-a72/openwrt-24.10.8-r29233-443ec4032a",
@@ -53,8 +53,8 @@
     "aarch64_cortex-a76": {
       "apk": {
         "application": {
-          "file": "luci-app-videoplayer-1.2.0.apk",
-          "sha256": "d1ac1f77a66e15b3dd9e1ace585b477b6f01451ee0ed4e06449da48d593cfb07"
+          "file": "luci-app-videoplayer-1.1.0.apk",
+          "sha256": "d695b52241ba5391f637ae4f09d0cc8a4f1e4d7f3f2d537b99bdfbd645f26da9"
         },
         "codec": null,
         "directory": "aarch64_cortex-a76/openwrt-25.12.5-r33051-f5dae5ece4",
@@ -64,8 +64,8 @@
       },
       "ipk": {
         "application": {
-          "file": "luci-app-videoplayer_1.2.0_all.ipk",
-          "sha256": "da49a020def4aae7bf73e742a9d31b1f9d9becf7c57d64ba1ca0c0a4afbf1f25"
+          "file": "luci-app-videoplayer_1.1.0_all.ipk",
+          "sha256": "f037d5c34acc27b4c70903ad6d2ea6e49dd2b41b81b8778e8a678a70735ad582"
         },
         "codec": null,
         "directory": "aarch64_cortex-a76/openwrt-24.10.8-r29233-443ec4032a",
@@ -77,8 +77,8 @@
     "aarch64_generic": {
       "apk": {
         "application": {
-          "file": "luci-app-videoplayer-1.2.0.apk",
-          "sha256": "d1ac1f77a66e15b3dd9e1ace585b477b6f01451ee0ed4e06449da48d593cfb07"
+          "file": "luci-app-videoplayer-1.1.0.apk",
+          "sha256": "d695b52241ba5391f637ae4f09d0cc8a4f1e4d7f3f2d537b99bdfbd645f26da9"
         },
         "codec": null,
         "directory": "aarch64_generic/openwrt-25.12.5-r33051-f5dae5ece4",
@@ -88,8 +88,8 @@
       },
       "ipk": {
         "application": {
-          "file": "luci-app-videoplayer_1.2.0_all.ipk",
-          "sha256": "da49a020def4aae7bf73e742a9d31b1f9d9becf7c57d64ba1ca0c0a4afbf1f25"
+          "file": "luci-app-videoplayer_1.1.0_all.ipk",
+          "sha256": "f037d5c34acc27b4c70903ad6d2ea6e49dd2b41b81b8778e8a678a70735ad582"
         },
         "codec": null,
         "directory": "aarch64_generic/openwrt-24.10.8-r29233-443ec4032a",
@@ -101,8 +101,8 @@
     "arm_arm1176jzf-s_vfp": {
       "apk": {
         "application": {
-          "file": "luci-app-videoplayer-1.2.0.apk",
-          "sha256": "d1ac1f77a66e15b3dd9e1ace585b477b6f01451ee0ed4e06449da48d593cfb07"
+          "file": "luci-app-videoplayer-1.1.0.apk",
+          "sha256": "d695b52241ba5391f637ae4f09d0cc8a4f1e4d7f3f2d537b99bdfbd645f26da9"
         },
         "codec": null,
         "directory": "arm_arm1176jzf-s_vfp/openwrt-25.12.5-r33051-f5dae5ece4",
@@ -112,8 +112,8 @@
       },
       "ipk": {
         "application": {
-          "file": "luci-app-videoplayer_1.2.0_all.ipk",
-          "sha256": "da49a020def4aae7bf73e742a9d31b1f9d9becf7c57d64ba1ca0c0a4afbf1f25"
+          "file": "luci-app-videoplayer_1.1.0_all.ipk",
+          "sha256": "f037d5c34acc27b4c70903ad6d2ea6e49dd2b41b81b8778e8a678a70735ad582"
         },
         "codec": null,
         "directory": "arm_arm1176jzf-s_vfp/openwrt-24.10.8-r29233-443ec4032a",
@@ -125,8 +125,8 @@
     "arm_arm926ej-s": {
       "apk": {
         "application": {
-          "file": "luci-app-videoplayer-1.2.0.apk",
-          "sha256": "d1ac1f77a66e15b3dd9e1ace585b477b6f01451ee0ed4e06449da48d593cfb07"
+          "file": "luci-app-videoplayer-1.1.0.apk",
+          "sha256": "d695b52241ba5391f637ae4f09d0cc8a4f1e4d7f3f2d537b99bdfbd645f26da9"
         },
         "codec": null,
         "directory": "arm_arm926ej-s/openwrt-25.12.5-r33051-f5dae5ece4",
@@ -136,8 +136,8 @@
       },
       "ipk": {
         "application": {
-          "file": "luci-app-videoplayer_1.2.0_all.ipk",
-          "sha256": "da49a020def4aae7bf73e742a9d31b1f9d9becf7c57d64ba1ca0c0a4afbf1f25"
+          "file": "luci-app-videoplayer_1.1.0_all.ipk",
+          "sha256": "f037d5c34acc27b4c70903ad6d2ea6e49dd2b41b81b8778e8a678a70735ad582"
         },
         "codec": null,
         "directory": "arm_arm926ej-s/openwrt-24.10.8-r29233-443ec4032a",
@@ -149,8 +149,8 @@
     "arm_cortex-a15_neon-vfpv4": {
       "apk": {
         "application": {
-          "file": "luci-app-videoplayer-1.2.0.apk",
-          "sha256": "d1ac1f77a66e15b3dd9e1ace585b477b6f01451ee0ed4e06449da48d593cfb07"
+          "file": "luci-app-videoplayer-1.1.0.apk",
+          "sha256": "d695b52241ba5391f637ae4f09d0cc8a4f1e4d7f3f2d537b99bdfbd645f26da9"
         },
         "codec": null,
         "directory": "arm_cortex-a15_neon-vfpv4/openwrt-25.12.5-r33051-f5dae5ece4",
@@ -160,8 +160,8 @@
       },
       "ipk": {
         "application": {
-          "file": "luci-app-videoplayer_1.2.0_all.ipk",
-          "sha256": "da49a020def4aae7bf73e742a9d31b1f9d9becf7c57d64ba1ca0c0a4afbf1f25"
+          "file": "luci-app-videoplayer_1.1.0_all.ipk",
+          "sha256": "f037d5c34acc27b4c70903ad6d2ea6e49dd2b41b81b8778e8a678a70735ad582"
         },
         "codec": null,
         "directory": "arm_cortex-a15_neon-vfpv4/openwrt-24.10.8-r29233-443ec4032a",
@@ -173,8 +173,8 @@
     "arm_cortex-a5_vfpv4": {
       "apk": {
         "application": {
-          "file": "luci-app-videoplayer-1.2.0.apk",
-          "sha256": "d1ac1f77a66e15b3dd9e1ace585b477b6f01451ee0ed4e06449da48d593cfb07"
+          "file": "luci-app-videoplayer-1.1.0.apk",
+          "sha256": "d695b52241ba5391f637ae4f09d0cc8a4f1e4d7f3f2d537b99bdfbd645f26da9"
         },
         "codec": null,
         "directory": "arm_cortex-a5_vfpv4/openwrt-25.12.5-r33051-f5dae5ece4",
@@ -184,8 +184,8 @@
       },
       "ipk": {
         "application": {
-          "file": "luci-app-videoplayer_1.2.0_all.ipk",
-          "sha256": "da49a020def4aae7bf73e742a9d31b1f9d9becf7c57d64ba1ca0c0a4afbf1f25"
+          "file": "luci-app-videoplayer_1.1.0_all.ipk",
+          "sha256": "f037d5c34acc27b4c70903ad6d2ea6e49dd2b41b81b8778e8a678a70735ad582"
         },
         "codec": null,
         "directory": "arm_cortex-a5_vfpv4/openwrt-24.10.8-r29233-443ec4032a",
@@ -197,8 +197,8 @@
     "arm_cortex-a7": {
       "apk": {
         "application": {
-          "file": "luci-app-videoplayer-1.2.0.apk",
-          "sha256": "d1ac1f77a66e15b3dd9e1ace585b477b6f01451ee0ed4e06449da48d593cfb07"
+          "file": "luci-app-videoplayer-1.1.0.apk",
+          "sha256": "d695b52241ba5391f637ae4f09d0cc8a4f1e4d7f3f2d537b99bdfbd645f26da9"
         },
         "codec": null,
         "directory": "arm_cortex-a7/openwrt-25.12.5-r33051-f5dae5ece4",
@@ -208,8 +208,8 @@
       },
       "ipk": {
         "application": {
-          "file": "luci-app-videoplayer_1.2.0_all.ipk",
-          "sha256": "da49a020def4aae7bf73e742a9d31b1f9d9becf7c57d64ba1ca0c0a4afbf1f25"
+          "file": "luci-app-videoplayer_1.1.0_all.ipk",
+          "sha256": "f037d5c34acc27b4c70903ad6d2ea6e49dd2b41b81b8778e8a678a70735ad582"
         },
         "codec": null,
         "directory": "arm_cortex-a7/openwrt-24.10.8-r29233-443ec4032a",
@@ -221,8 +221,8 @@
     "arm_cortex-a7_neon-vfpv4": {
       "apk": {
         "application": {
-          "file": "luci-app-videoplayer-1.2.0.apk",
-          "sha256": "d1ac1f77a66e15b3dd9e1ace585b477b6f01451ee0ed4e06449da48d593cfb07"
+          "file": "luci-app-videoplayer-1.1.0.apk",
+          "sha256": "d695b52241ba5391f637ae4f09d0cc8a4f1e4d7f3f2d537b99bdfbd645f26da9"
         },
         "codec": null,
         "directory": "arm_cortex-a7_neon-vfpv4/openwrt-25.12.5-r33051-f5dae5ece4",
@@ -232,8 +232,8 @@
       },
       "ipk": {
         "application": {
-          "file": "luci-app-videoplayer_1.2.0_all.ipk",
-          "sha256": "da49a020def4aae7bf73e742a9d31b1f9d9becf7c57d64ba1ca0c0a4afbf1f25"
+          "file": "luci-app-videoplayer_1.1.0_all.ipk",
+          "sha256": "f037d5c34acc27b4c70903ad6d2ea6e49dd2b41b81b8778e8a678a70735ad582"
         },
         "codec": null,
         "directory": "arm_cortex-a7_neon-vfpv4/openwrt-24.10.8-r29233-443ec4032a",
@@ -245,8 +245,8 @@
     "arm_cortex-a7_vfpv4": {
       "apk": {
         "application": {
-          "file": "luci-app-videoplayer-1.2.0.apk",
-          "sha256": "d1ac1f77a66e15b3dd9e1ace585b477b6f01451ee0ed4e06449da48d593cfb07"
+          "file": "luci-app-videoplayer-1.1.0.apk",
+          "sha256": "d695b52241ba5391f637ae4f09d0cc8a4f1e4d7f3f2d537b99bdfbd645f26da9"
         },
         "codec": null,
         "directory": "arm_cortex-a7_vfpv4/openwrt-25.12.5-r33051-f5dae5ece4",
@@ -256,8 +256,8 @@
       },
       "ipk": {
         "application": {
-          "file": "luci-app-videoplayer_1.2.0_all.ipk",
-          "sha256": "da49a020def4aae7bf73e742a9d31b1f9d9becf7c57d64ba1ca0c0a4afbf1f25"
+          "file": "luci-app-videoplayer_1.1.0_all.ipk",
+          "sha256": "f037d5c34acc27b4c70903ad6d2ea6e49dd2b41b81b8778e8a678a70735ad582"
         },
         "codec": null,
         "directory": "arm_cortex-a7_vfpv4/openwrt-24.10.8-r29233-443ec4032a",
@@ -269,8 +269,8 @@
     "arm_cortex-a8_vfpv3": {
       "apk": {
         "application": {
-          "file": "luci-app-videoplayer-1.2.0.apk",
-          "sha256": "d1ac1f77a66e15b3dd9e1ace585b477b6f01451ee0ed4e06449da48d593cfb07"
+          "file": "luci-app-videoplayer-1.1.0.apk",
+          "sha256": "d695b52241ba5391f637ae4f09d0cc8a4f1e4d7f3f2d537b99bdfbd645f26da9"
         },
         "codec": null,
         "directory": "arm_cortex-a8_vfpv3/openwrt-25.12.5-r33051-f5dae5ece4",
@@ -280,8 +280,8 @@
       },
       "ipk": {
         "application": {
-          "file": "luci-app-videoplayer_1.2.0_all.ipk",
-          "sha256": "da49a020def4aae7bf73e742a9d31b1f9d9becf7c57d64ba1ca0c0a4afbf1f25"
+          "file": "luci-app-videoplayer_1.1.0_all.ipk",
+          "sha256": "f037d5c34acc27b4c70903ad6d2ea6e49dd2b41b81b8778e8a678a70735ad582"
         },
         "codec": null,
         "directory": "arm_cortex-a8_vfpv3/openwrt-24.10.8-r29233-443ec4032a",
@@ -293,8 +293,8 @@
     "arm_cortex-a9": {
       "apk": {
         "application": {
-          "file": "luci-app-videoplayer-1.2.0.apk",
-          "sha256": "d1ac1f77a66e15b3dd9e1ace585b477b6f01451ee0ed4e06449da48d593cfb07"
+          "file": "luci-app-videoplayer-1.1.0.apk",
+          "sha256": "d695b52241ba5391f637ae4f09d0cc8a4f1e4d7f3f2d537b99bdfbd645f26da9"
         },
         "codec": null,
         "directory": "arm_cortex-a9/openwrt-25.12.5-r33051-f5dae5ece4",
@@ -304,8 +304,8 @@
       },
       "ipk": {
         "application": {
-          "file": "luci-app-videoplayer_1.2.0_all.ipk",
-          "sha256": "da49a020def4aae7bf73e742a9d31b1f9d9becf7c57d64ba1ca0c0a4afbf1f25"
+          "file": "luci-app-videoplayer_1.1.0_all.ipk",
+          "sha256": "f037d5c34acc27b4c70903ad6d2ea6e49dd2b41b81b8778e8a678a70735ad582"
         },
         "codec": null,
         "directory": "arm_cortex-a9/openwrt-24.10.8-r29233-443ec4032a",
@@ -317,8 +317,8 @@
     "arm_cortex-a9_neon": {
       "apk": {
         "application": {
-          "file": "luci-app-videoplayer-1.2.0.apk",
-          "sha256": "d1ac1f77a66e15b3dd9e1ace585b477b6f01451ee0ed4e06449da48d593cfb07"
+          "file": "luci-app-videoplayer-1.1.0.apk",
+          "sha256": "d695b52241ba5391f637ae4f09d0cc8a4f1e4d7f3f2d537b99bdfbd645f26da9"
         },
         "codec": null,
         "directory": "arm_cortex-a9_neon/openwrt-25.12.5-r33051-f5dae5ece4",
@@ -328,8 +328,8 @@
       },
       "ipk": {
         "application": {
-          "file": "luci-app-videoplayer_1.2.0_all.ipk",
-          "sha256": "da49a020def4aae7bf73e742a9d31b1f9d9becf7c57d64ba1ca0c0a4afbf1f25"
+          "file": "luci-app-videoplayer_1.1.0_all.ipk",
+          "sha256": "f037d5c34acc27b4c70903ad6d2ea6e49dd2b41b81b8778e8a678a70735ad582"
         },
         "codec": null,
         "directory": "arm_cortex-a9_neon/openwrt-24.10.8-r29233-443ec4032a",
@@ -341,8 +341,8 @@
     "arm_cortex-a9_vfpv3-d16": {
       "apk": {
         "application": {
-          "file": "luci-app-videoplayer-1.2.0.apk",
-          "sha256": "d1ac1f77a66e15b3dd9e1ace585b477b6f01451ee0ed4e06449da48d593cfb07"
+          "file": "luci-app-videoplayer-1.1.0.apk",
+          "sha256": "d695b52241ba5391f637ae4f09d0cc8a4f1e4d7f3f2d537b99bdfbd645f26da9"
         },
         "codec": null,
         "directory": "arm_cortex-a9_vfpv3-d16/openwrt-25.12.5-r33051-f5dae5ece4",
@@ -352,8 +352,8 @@
       },
       "ipk": {
         "application": {
-          "file": "luci-app-videoplayer_1.2.0_all.ipk",
-          "sha256": "da49a020def4aae7bf73e742a9d31b1f9d9becf7c57d64ba1ca0c0a4afbf1f25"
+          "file": "luci-app-videoplayer_1.1.0_all.ipk",
+          "sha256": "f037d5c34acc27b4c70903ad6d2ea6e49dd2b41b81b8778e8a678a70735ad582"
         },
         "codec": null,
         "directory": "arm_cortex-a9_vfpv3-d16/openwrt-24.10.8-r29233-443ec4032a",
@@ -365,8 +365,8 @@
     "arm_fa526": {
       "apk": {
         "application": {
-          "file": "luci-app-videoplayer-1.2.0.apk",
-          "sha256": "d1ac1f77a66e15b3dd9e1ace585b477b6f01451ee0ed4e06449da48d593cfb07"
+          "file": "luci-app-videoplayer-1.1.0.apk",
+          "sha256": "d695b52241ba5391f637ae4f09d0cc8a4f1e4d7f3f2d537b99bdfbd645f26da9"
         },
         "codec": null,
         "directory": "arm_fa526/openwrt-25.12.5-r33051-f5dae5ece4",
@@ -376,8 +376,8 @@
       },
       "ipk": {
         "application": {
-          "file": "luci-app-videoplayer_1.2.0_all.ipk",
-          "sha256": "da49a020def4aae7bf73e742a9d31b1f9d9becf7c57d64ba1ca0c0a4afbf1f25"
+          "file": "luci-app-videoplayer_1.1.0_all.ipk",
+          "sha256": "f037d5c34acc27b4c70903ad6d2ea6e49dd2b41b81b8778e8a678a70735ad582"
         },
         "codec": null,
         "directory": "arm_fa526/openwrt-24.10.8-r29233-443ec4032a",
@@ -389,8 +389,8 @@
     "arm_xscale": {
       "apk": {
         "application": {
-          "file": "luci-app-videoplayer-1.2.0.apk",
-          "sha256": "d1ac1f77a66e15b3dd9e1ace585b477b6f01451ee0ed4e06449da48d593cfb07"
+          "file": "luci-app-videoplayer-1.1.0.apk",
+          "sha256": "d695b52241ba5391f637ae4f09d0cc8a4f1e4d7f3f2d537b99bdfbd645f26da9"
         },
         "codec": null,
         "directory": "arm_xscale/openwrt-25.12.5-r33051-f5dae5ece4",
@@ -400,8 +400,8 @@
       },
       "ipk": {
         "application": {
-          "file": "luci-app-videoplayer_1.2.0_all.ipk",
-          "sha256": "da49a020def4aae7bf73e742a9d31b1f9d9becf7c57d64ba1ca0c0a4afbf1f25"
+          "file": "luci-app-videoplayer_1.1.0_all.ipk",
+          "sha256": "f037d5c34acc27b4c70903ad6d2ea6e49dd2b41b81b8778e8a678a70735ad582"
         },
         "codec": null,
         "directory": "arm_xscale/openwrt-24.10.8-r29233-443ec4032a",
@@ -413,8 +413,8 @@
     "armeb_xscale": {
       "apk": {
         "application": {
-          "file": "luci-app-videoplayer-1.2.0.apk",
-          "sha256": "d1ac1f77a66e15b3dd9e1ace585b477b6f01451ee0ed4e06449da48d593cfb07"
+          "file": "luci-app-videoplayer-1.1.0.apk",
+          "sha256": "d695b52241ba5391f637ae4f09d0cc8a4f1e4d7f3f2d537b99bdfbd645f26da9"
         },
         "codec": null,
         "directory": "armeb_xscale/openwrt-25.12.5-r33051-f5dae5ece4",
@@ -424,8 +424,8 @@
       },
       "ipk": {
         "application": {
-          "file": "luci-app-videoplayer_1.2.0_all.ipk",
-          "sha256": "da49a020def4aae7bf73e742a9d31b1f9d9becf7c57d64ba1ca0c0a4afbf1f25"
+          "file": "luci-app-videoplayer_1.1.0_all.ipk",
+          "sha256": "f037d5c34acc27b4c70903ad6d2ea6e49dd2b41b81b8778e8a678a70735ad582"
         },
         "codec": null,
         "directory": "armeb_xscale/openwrt-24.10.8-r29233-443ec4032a",
@@ -437,8 +437,8 @@
     "i386_pentium-mmx": {
       "apk": {
         "application": {
-          "file": "luci-app-videoplayer-1.2.0.apk",
-          "sha256": "d1ac1f77a66e15b3dd9e1ace585b477b6f01451ee0ed4e06449da48d593cfb07"
+          "file": "luci-app-videoplayer-1.1.0.apk",
+          "sha256": "d695b52241ba5391f637ae4f09d0cc8a4f1e4d7f3f2d537b99bdfbd645f26da9"
         },
         "codec": null,
         "directory": "i386_pentium-mmx/openwrt-25.12.5-r33051-f5dae5ece4",
@@ -448,8 +448,8 @@
       },
       "ipk": {
         "application": {
-          "file": "luci-app-videoplayer_1.2.0_all.ipk",
-          "sha256": "da49a020def4aae7bf73e742a9d31b1f9d9becf7c57d64ba1ca0c0a4afbf1f25"
+          "file": "luci-app-videoplayer_1.1.0_all.ipk",
+          "sha256": "f037d5c34acc27b4c70903ad6d2ea6e49dd2b41b81b8778e8a678a70735ad582"
         },
         "codec": null,
         "directory": "i386_pentium-mmx/openwrt-24.10.8-r29233-443ec4032a",
@@ -461,8 +461,8 @@
     "i386_pentium4": {
       "apk": {
         "application": {
-          "file": "luci-app-videoplayer-1.2.0.apk",
-          "sha256": "d1ac1f77a66e15b3dd9e1ace585b477b6f01451ee0ed4e06449da48d593cfb07"
+          "file": "luci-app-videoplayer-1.1.0.apk",
+          "sha256": "d695b52241ba5391f637ae4f09d0cc8a4f1e4d7f3f2d537b99bdfbd645f26da9"
         },
         "codec": null,
         "directory": "i386_pentium4/openwrt-25.12.5-r33051-f5dae5ece4",
@@ -472,8 +472,8 @@
       },
       "ipk": {
         "application": {
-          "file": "luci-app-videoplayer_1.2.0_all.ipk",
-          "sha256": "da49a020def4aae7bf73e742a9d31b1f9d9becf7c57d64ba1ca0c0a4afbf1f25"
+          "file": "luci-app-videoplayer_1.1.0_all.ipk",
+          "sha256": "f037d5c34acc27b4c70903ad6d2ea6e49dd2b41b81b8778e8a678a70735ad582"
         },
         "codec": null,
         "directory": "i386_pentium4/openwrt-24.10.8-r29233-443ec4032a",
@@ -485,8 +485,8 @@
     "loongarch64_generic": {
       "apk": {
         "application": {
-          "file": "luci-app-videoplayer-1.2.0.apk",
-          "sha256": "d1ac1f77a66e15b3dd9e1ace585b477b6f01451ee0ed4e06449da48d593cfb07"
+          "file": "luci-app-videoplayer-1.1.0.apk",
+          "sha256": "d695b52241ba5391f637ae4f09d0cc8a4f1e4d7f3f2d537b99bdfbd645f26da9"
         },
         "codec": null,
         "directory": "loongarch64_generic/openwrt-25.12.5-r33051-f5dae5ece4",
@@ -496,8 +496,8 @@
       },
       "ipk": {
         "application": {
-          "file": "luci-app-videoplayer_1.2.0_all.ipk",
-          "sha256": "da49a020def4aae7bf73e742a9d31b1f9d9becf7c57d64ba1ca0c0a4afbf1f25"
+          "file": "luci-app-videoplayer_1.1.0_all.ipk",
+          "sha256": "f037d5c34acc27b4c70903ad6d2ea6e49dd2b41b81b8778e8a678a70735ad582"
         },
         "codec": null,
         "directory": "loongarch64_generic/openwrt-24.10.8-r29233-443ec4032a",
@@ -509,8 +509,8 @@
     "mips64_mips64r2": {
       "apk": {
         "application": {
-          "file": "luci-app-videoplayer-1.2.0.apk",
-          "sha256": "d1ac1f77a66e15b3dd9e1ace585b477b6f01451ee0ed4e06449da48d593cfb07"
+          "file": "luci-app-videoplayer-1.1.0.apk",
+          "sha256": "d695b52241ba5391f637ae4f09d0cc8a4f1e4d7f3f2d537b99bdfbd645f26da9"
         },
         "codec": null,
         "directory": "mips64_mips64r2/openwrt-25.12.5-r33051-f5dae5ece4",
@@ -520,8 +520,8 @@
       },
       "ipk": {
         "application": {
-          "file": "luci-app-videoplayer_1.2.0_all.ipk",
-          "sha256": "da49a020def4aae7bf73e742a9d31b1f9d9becf7c57d64ba1ca0c0a4afbf1f25"
+          "file": "luci-app-videoplayer_1.1.0_all.ipk",
+          "sha256": "f037d5c34acc27b4c70903ad6d2ea6e49dd2b41b81b8778e8a678a70735ad582"
         },
         "codec": null,
         "directory": "mips64_mips64r2/openwrt-24.10.8-r29233-443ec4032a",
@@ -533,8 +533,8 @@
     "mips64_octeonplus": {
       "apk": {
         "application": {
-          "file": "luci-app-videoplayer-1.2.0.apk",
-          "sha256": "d1ac1f77a66e15b3dd9e1ace585b477b6f01451ee0ed4e06449da48d593cfb07"
+          "file": "luci-app-videoplayer-1.1.0.apk",
+          "sha256": "d695b52241ba5391f637ae4f09d0cc8a4f1e4d7f3f2d537b99bdfbd645f26da9"
         },
         "codec": null,
         "directory": "mips64_octeonplus/openwrt-25.12.5-r33051-f5dae5ece4",
@@ -544,8 +544,8 @@
       },
       "ipk": {
         "application": {
-          "file": "luci-app-videoplayer_1.2.0_all.ipk",
-          "sha256": "da49a020def4aae7bf73e742a9d31b1f9d9becf7c57d64ba1ca0c0a4afbf1f25"
+          "file": "luci-app-videoplayer_1.1.0_all.ipk",
+          "sha256": "f037d5c34acc27b4c70903ad6d2ea6e49dd2b41b81b8778e8a678a70735ad582"
         },
         "codec": null,
         "directory": "mips64_octeonplus/openwrt-24.10.8-r29233-443ec4032a",
@@ -557,8 +557,8 @@
     "mips64el_mips64r2": {
       "apk": {
         "application": {
-          "file": "luci-app-videoplayer-1.2.0.apk",
-          "sha256": "d1ac1f77a66e15b3dd9e1ace585b477b6f01451ee0ed4e06449da48d593cfb07"
+          "file": "luci-app-videoplayer-1.1.0.apk",
+          "sha256": "d695b52241ba5391f637ae4f09d0cc8a4f1e4d7f3f2d537b99bdfbd645f26da9"
         },
         "codec": null,
         "directory": "mips64el_mips64r2/openwrt-25.12.5-r33051-f5dae5ece4",
@@ -568,8 +568,8 @@
       },
       "ipk": {
         "application": {
-          "file": "luci-app-videoplayer_1.2.0_all.ipk",
-          "sha256": "da49a020def4aae7bf73e742a9d31b1f9d9becf7c57d64ba1ca0c0a4afbf1f25"
+          "file": "luci-app-videoplayer_1.1.0_all.ipk",
+          "sha256": "f037d5c34acc27b4c70903ad6d2ea6e49dd2b41b81b8778e8a678a70735ad582"
         },
         "codec": null,
         "directory": "mips64el_mips64r2/openwrt-24.10.8-r29233-443ec4032a",
@@ -581,8 +581,8 @@
     "mips_24kc": {
       "apk": {
         "application": {
-          "file": "luci-app-videoplayer-1.2.0.apk",
-          "sha256": "d1ac1f77a66e15b3dd9e1ace585b477b6f01451ee0ed4e06449da48d593cfb07"
+          "file": "luci-app-videoplayer-1.1.0.apk",
+          "sha256": "d695b52241ba5391f637ae4f09d0cc8a4f1e4d7f3f2d537b99bdfbd645f26da9"
         },
         "codec": null,
         "directory": "mips_24kc/openwrt-25.12.5-r33051-f5dae5ece4",
@@ -592,8 +592,8 @@
       },
       "ipk": {
         "application": {
-          "file": "luci-app-videoplayer_1.2.0_all.ipk",
-          "sha256": "da49a020def4aae7bf73e742a9d31b1f9d9becf7c57d64ba1ca0c0a4afbf1f25"
+          "file": "luci-app-videoplayer_1.1.0_all.ipk",
+          "sha256": "f037d5c34acc27b4c70903ad6d2ea6e49dd2b41b81b8778e8a678a70735ad582"
         },
         "codec": null,
         "directory": "mips_24kc/openwrt-24.10.8-r29233-443ec4032a",
@@ -605,8 +605,8 @@
     "mips_4kec": {
       "ipk": {
         "application": {
-          "file": "luci-app-videoplayer_1.2.0_all.ipk",
-          "sha256": "da49a020def4aae7bf73e742a9d31b1f9d9becf7c57d64ba1ca0c0a4afbf1f25"
+          "file": "luci-app-videoplayer_1.1.0_all.ipk",
+          "sha256": "f037d5c34acc27b4c70903ad6d2ea6e49dd2b41b81b8778e8a678a70735ad582"
         },
         "codec": null,
         "directory": "mips_4kec/openwrt-24.10.8-r29233-443ec4032a",
@@ -618,8 +618,8 @@
     "mips_mips32": {
       "apk": {
         "application": {
-          "file": "luci-app-videoplayer-1.2.0.apk",
-          "sha256": "d1ac1f77a66e15b3dd9e1ace585b477b6f01451ee0ed4e06449da48d593cfb07"
+          "file": "luci-app-videoplayer-1.1.0.apk",
+          "sha256": "d695b52241ba5391f637ae4f09d0cc8a4f1e4d7f3f2d537b99bdfbd645f26da9"
         },
         "codec": null,
         "directory": "mips_mips32/openwrt-25.12.5-r33051-f5dae5ece4",
@@ -629,8 +629,8 @@
       },
       "ipk": {
         "application": {
-          "file": "luci-app-videoplayer_1.2.0_all.ipk",
-          "sha256": "da49a020def4aae7bf73e742a9d31b1f9d9becf7c57d64ba1ca0c0a4afbf1f25"
+          "file": "luci-app-videoplayer_1.1.0_all.ipk",
+          "sha256": "f037d5c34acc27b4c70903ad6d2ea6e49dd2b41b81b8778e8a678a70735ad582"
         },
         "codec": null,
         "directory": "mips_mips32/openwrt-24.10.8-r29233-443ec4032a",
@@ -642,8 +642,8 @@
     "mipsel_24kc": {
       "apk": {
         "application": {
-          "file": "luci-app-videoplayer-1.2.0.apk",
-          "sha256": "d1ac1f77a66e15b3dd9e1ace585b477b6f01451ee0ed4e06449da48d593cfb07"
+          "file": "luci-app-videoplayer-1.1.0.apk",
+          "sha256": "d695b52241ba5391f637ae4f09d0cc8a4f1e4d7f3f2d537b99bdfbd645f26da9"
         },
         "codec": null,
         "directory": "mipsel_24kc/openwrt-25.12.5-r33051-f5dae5ece4",
@@ -653,8 +653,8 @@
       },
       "ipk": {
         "application": {
-          "file": "luci-app-videoplayer_1.2.0_all.ipk",
-          "sha256": "da49a020def4aae7bf73e742a9d31b1f9d9becf7c57d64ba1ca0c0a4afbf1f25"
+          "file": "luci-app-videoplayer_1.1.0_all.ipk",
+          "sha256": "f037d5c34acc27b4c70903ad6d2ea6e49dd2b41b81b8778e8a678a70735ad582"
         },
         "codec": null,
         "directory": "mipsel_24kc/openwrt-24.10.8-r29233-443ec4032a",
@@ -666,8 +666,8 @@
     "mipsel_24kc_24kf": {
       "apk": {
         "application": {
-          "file": "luci-app-videoplayer-1.2.0.apk",
-          "sha256": "d1ac1f77a66e15b3dd9e1ace585b477b6f01451ee0ed4e06449da48d593cfb07"
+          "file": "luci-app-videoplayer-1.1.0.apk",
+          "sha256": "d695b52241ba5391f637ae4f09d0cc8a4f1e4d7f3f2d537b99bdfbd645f26da9"
         },
         "codec": null,
         "directory": "mipsel_24kc_24kf/openwrt-25.12.5-r33051-f5dae5ece4",
@@ -677,8 +677,8 @@
       },
       "ipk": {
         "application": {
-          "file": "luci-app-videoplayer_1.2.0_all.ipk",
-          "sha256": "da49a020def4aae7bf73e742a9d31b1f9d9becf7c57d64ba1ca0c0a4afbf1f25"
+          "file": "luci-app-videoplayer_1.1.0_all.ipk",
+          "sha256": "f037d5c34acc27b4c70903ad6d2ea6e49dd2b41b81b8778e8a678a70735ad582"
         },
         "codec": null,
         "directory": "mipsel_24kc_24kf/openwrt-24.10.8-r29233-443ec4032a",
@@ -690,8 +690,8 @@
     "mipsel_74kc": {
       "apk": {
         "application": {
-          "file": "luci-app-videoplayer-1.2.0.apk",
-          "sha256": "d1ac1f77a66e15b3dd9e1ace585b477b6f01451ee0ed4e06449da48d593cfb07"
+          "file": "luci-app-videoplayer-1.1.0.apk",
+          "sha256": "d695b52241ba5391f637ae4f09d0cc8a4f1e4d7f3f2d537b99bdfbd645f26da9"
         },
         "codec": null,
         "directory": "mipsel_74kc/openwrt-25.12.5-r33051-f5dae5ece4",
@@ -701,8 +701,8 @@
       },
       "ipk": {
         "application": {
-          "file": "luci-app-videoplayer_1.2.0_all.ipk",
-          "sha256": "da49a020def4aae7bf73e742a9d31b1f9d9becf7c57d64ba1ca0c0a4afbf1f25"
+          "file": "luci-app-videoplayer_1.1.0_all.ipk",
+          "sha256": "f037d5c34acc27b4c70903ad6d2ea6e49dd2b41b81b8778e8a678a70735ad582"
         },
         "codec": null,
         "directory": "mipsel_74kc/openwrt-24.10.8-r29233-443ec4032a",
@@ -714,8 +714,8 @@
     "mipsel_mips32": {
       "apk": {
         "application": {
-          "file": "luci-app-videoplayer-1.2.0.apk",
-          "sha256": "d1ac1f77a66e15b3dd9e1ace585b477b6f01451ee0ed4e06449da48d593cfb07"
+          "file": "luci-app-videoplayer-1.1.0.apk",
+          "sha256": "d695b52241ba5391f637ae4f09d0cc8a4f1e4d7f3f2d537b99bdfbd645f26da9"
         },
         "codec": null,
         "directory": "mipsel_mips32/openwrt-25.12.5-r33051-f5dae5ece4",
@@ -725,8 +725,8 @@
       },
       "ipk": {
         "application": {
-          "file": "luci-app-videoplayer_1.2.0_all.ipk",
-          "sha256": "da49a020def4aae7bf73e742a9d31b1f9d9becf7c57d64ba1ca0c0a4afbf1f25"
+          "file": "luci-app-videoplayer_1.1.0_all.ipk",
+          "sha256": "f037d5c34acc27b4c70903ad6d2ea6e49dd2b41b81b8778e8a678a70735ad582"
         },
         "codec": null,
         "directory": "mipsel_mips32/openwrt-24.10.8-r29233-443ec4032a",
@@ -738,8 +738,8 @@
     "powerpc64_e5500": {
       "apk": {
         "application": {
-          "file": "luci-app-videoplayer-1.2.0.apk",
-          "sha256": "d1ac1f77a66e15b3dd9e1ace585b477b6f01451ee0ed4e06449da48d593cfb07"
+          "file": "luci-app-videoplayer-1.1.0.apk",
+          "sha256": "d695b52241ba5391f637ae4f09d0cc8a4f1e4d7f3f2d537b99bdfbd645f26da9"
         },
         "codec": null,
         "directory": "powerpc64_e5500/openwrt-25.12.5-r33051-f5dae5ece4",
@@ -749,8 +749,8 @@
       },
       "ipk": {
         "application": {
-          "file": "luci-app-videoplayer_1.2.0_all.ipk",
-          "sha256": "da49a020def4aae7bf73e742a9d31b1f9d9becf7c57d64ba1ca0c0a4afbf1f25"
+          "file": "luci-app-videoplayer_1.1.0_all.ipk",
+          "sha256": "f037d5c34acc27b4c70903ad6d2ea6e49dd2b41b81b8778e8a678a70735ad582"
         },
         "codec": null,
         "directory": "powerpc64_e5500/openwrt-24.10.8-r29233-443ec4032a",
@@ -762,8 +762,8 @@
     "powerpc_464fp": {
       "apk": {
         "application": {
-          "file": "luci-app-videoplayer-1.2.0.apk",
-          "sha256": "d1ac1f77a66e15b3dd9e1ace585b477b6f01451ee0ed4e06449da48d593cfb07"
+          "file": "luci-app-videoplayer-1.1.0.apk",
+          "sha256": "d695b52241ba5391f637ae4f09d0cc8a4f1e4d7f3f2d537b99bdfbd645f26da9"
         },
         "codec": null,
         "directory": "powerpc_464fp/openwrt-25.12.5-r33051-f5dae5ece4",
@@ -773,8 +773,8 @@
       },
       "ipk": {
         "application": {
-          "file": "luci-app-videoplayer_1.2.0_all.ipk",
-          "sha256": "da49a020def4aae7bf73e742a9d31b1f9d9becf7c57d64ba1ca0c0a4afbf1f25"
+          "file": "luci-app-videoplayer_1.1.0_all.ipk",
+          "sha256": "f037d5c34acc27b4c70903ad6d2ea6e49dd2b41b81b8778e8a678a70735ad582"
         },
         "codec": null,
         "directory": "powerpc_464fp/openwrt-24.10.8-r29233-443ec4032a",
@@ -786,8 +786,8 @@
     "powerpc_8548": {
       "apk": {
         "application": {
-          "file": "luci-app-videoplayer-1.2.0.apk",
-          "sha256": "d1ac1f77a66e15b3dd9e1ace585b477b6f01451ee0ed4e06449da48d593cfb07"
+          "file": "luci-app-videoplayer-1.1.0.apk",
+          "sha256": "d695b52241ba5391f637ae4f09d0cc8a4f1e4d7f3f2d537b99bdfbd645f26da9"
         },
         "codec": null,
         "directory": "powerpc_8548/openwrt-25.12.5-r33051-f5dae5ece4",
@@ -797,8 +797,8 @@
       },
       "ipk": {
         "application": {
-          "file": "luci-app-videoplayer_1.2.0_all.ipk",
-          "sha256": "da49a020def4aae7bf73e742a9d31b1f9d9becf7c57d64ba1ca0c0a4afbf1f25"
+          "file": "luci-app-videoplayer_1.1.0_all.ipk",
+          "sha256": "f037d5c34acc27b4c70903ad6d2ea6e49dd2b41b81b8778e8a678a70735ad582"
         },
         "codec": null,
         "directory": "powerpc_8548/openwrt-24.10.8-r29233-443ec4032a",
@@ -810,8 +810,8 @@
     "riscv64_generic": {
       "apk": {
         "application": {
-          "file": "luci-app-videoplayer-1.2.0.apk",
-          "sha256": "d1ac1f77a66e15b3dd9e1ace585b477b6f01451ee0ed4e06449da48d593cfb07"
+          "file": "luci-app-videoplayer-1.1.0.apk",
+          "sha256": "d695b52241ba5391f637ae4f09d0cc8a4f1e4d7f3f2d537b99bdfbd645f26da9"
         },
         "codec": null,
         "directory": "riscv64_generic/openwrt-25.12.5-r33051-f5dae5ece4",
@@ -823,8 +823,8 @@
     "riscv64_riscv64": {
       "ipk": {
         "application": {
-          "file": "luci-app-videoplayer_1.2.0_all.ipk",
-          "sha256": "da49a020def4aae7bf73e742a9d31b1f9d9becf7c57d64ba1ca0c0a4afbf1f25"
+          "file": "luci-app-videoplayer_1.1.0_all.ipk",
+          "sha256": "f037d5c34acc27b4c70903ad6d2ea6e49dd2b41b81b8778e8a678a70735ad582"
         },
         "codec": null,
         "directory": "riscv64_riscv64/openwrt-24.10.8-r29233-443ec4032a",
@@ -836,8 +836,8 @@
     "x86_64": {
       "apk": {
         "application": {
-          "file": "luci-app-videoplayer-1.2.0.apk",
-          "sha256": "d1ac1f77a66e15b3dd9e1ace585b477b6f01451ee0ed4e06449da48d593cfb07"
+          "file": "luci-app-videoplayer-1.1.0.apk",
+          "sha256": "d695b52241ba5391f637ae4f09d0cc8a4f1e4d7f3f2d537b99bdfbd645f26da9"
         },
         "codec": null,
         "directory": "x86_64/openwrt-25.12.5-r33051-f5dae5ece4",
@@ -847,8 +847,8 @@
       },
       "ipk": {
         "application": {
-          "file": "luci-app-videoplayer_1.2.0_all.ipk",
-          "sha256": "da49a020def4aae7bf73e742a9d31b1f9d9becf7c57d64ba1ca0c0a4afbf1f25"
+          "file": "luci-app-videoplayer_1.1.0_all.ipk",
+          "sha256": "f037d5c34acc27b4c70903ad6d2ea6e49dd2b41b81b8778e8a678a70735ad582"
         },
         "codec": null,
         "directory": "x86_64/openwrt-24.10.8-r29233-443ec4032a",
@@ -863,5 +863,5 @@
   "folder_key": "DISTRIB_ARCH",
   "package_set_count": 71,
   "schema_version": 1,
-  "source_commit": "f1c0f30b1e6d11c45ba134d4ce7d51ca38139426"
+  "source_commit": "80a4045b8fedc431467de9ad60416314b789fa79"
 }
