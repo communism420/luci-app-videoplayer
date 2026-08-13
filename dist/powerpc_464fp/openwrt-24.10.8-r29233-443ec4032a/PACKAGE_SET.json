@@ -11,5 +11,5 @@
   "openwrt_revision": "r29233-443ec4032a",
   "package_format": "ipk",
   "schema_version": 1,
-  "source_commit": "7bcf682f999c73232a143a3311e3285f565c38a9"
+  "source_commit": "30304722942be63d61a551b69423fe317168467b"
 }
