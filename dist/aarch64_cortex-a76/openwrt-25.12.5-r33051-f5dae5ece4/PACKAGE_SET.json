@@ -1,0 +1,18 @@
+{
+  "application": {
+    "file": "luci-app-videoplayer-1.1.1.apk",
+    "sha256": "64347c95bd647e503c6fc3ec4fc86a1ceb4a48522bce8397bdcd0763793139ad"
+  },
+  "architecture": "aarch64_cortex-a76",
+  "codec": {
+    "file": "luci-videoplayer-codec-runtime-6.1.4-r5.apk",
+    "sha256": "06029098851f997682649e7fa11d6bf0f471c06dfe334dfb208ab02ccddbf7e0"
+  },
+  "folder_key": "DISTRIB_ARCH",
+  "manager": "apk",
+  "openwrt_release": "25.12.5",
+  "openwrt_revision": "r33051-f5dae5ece4",
+  "package_format": "apk",
+  "schema_version": 1,
+  "source_commit": "aaa4eefae44df5f435a1b81c293b57ce40a40e86"
+}

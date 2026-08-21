@@ -1,0 +1,18 @@
+{
+  "application": {
+    "file": "luci-app-videoplayer_1.1.1_all.ipk",
+    "sha256": "cca48c544662109f721f176e2f8232927f33fe0e01aefb6ef02f83a4e6c20d48"
+  },
+  "architecture": "arm_cortex-a9_vfpv3-d16",
+  "codec": {
+    "file": "luci-videoplayer-codec-runtime_6.1.4-r5_arm_cortex-a9_vfpv3-d16.ipk",
+    "sha256": "b8da724c29da45d5c379dc10993e6bbd07ec403a4fc15ba07300be7a645cff46"
+  },
+  "folder_key": "DISTRIB_ARCH",
+  "manager": "opkg",
+  "openwrt_release": "24.10.8",
+  "openwrt_revision": "r29233-443ec4032a",
+  "package_format": "ipk",
+  "schema_version": 1,
+  "source_commit": "aaa4eefae44df5f435a1b81c293b57ce40a40e86"
+}

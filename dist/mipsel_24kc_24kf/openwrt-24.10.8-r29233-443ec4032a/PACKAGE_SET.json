@@ -1,0 +1,18 @@
+{
+  "application": {
+    "file": "luci-app-videoplayer_1.1.1_all.ipk",
+    "sha256": "cca48c544662109f721f176e2f8232927f33fe0e01aefb6ef02f83a4e6c20d48"
+  },
+  "architecture": "mipsel_24kc_24kf",
+  "codec": {
+    "file": "luci-videoplayer-codec-runtime_6.1.4-r5_mipsel_24kc_24kf.ipk",
+    "sha256": "f36bbb3bd1f9b51fc88628f721148785ff75bfe148c7799fb1e055c42ff2ea4e"
+  },
+  "folder_key": "DISTRIB_ARCH",
+  "manager": "opkg",
+  "openwrt_release": "24.10.8",
+  "openwrt_revision": "r29233-443ec4032a",
+  "package_format": "ipk",
+  "schema_version": 1,
+  "source_commit": "aaa4eefae44df5f435a1b81c293b57ce40a40e86"
+}
