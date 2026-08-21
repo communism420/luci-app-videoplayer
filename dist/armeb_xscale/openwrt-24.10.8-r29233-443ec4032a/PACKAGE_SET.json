@@ -1,7 +1,7 @@
 {
   "application": {
-    "file": "luci-app-videoplayer_1.1.0_all.ipk",
-    "sha256": "f037d5c34acc27b4c70903ad6d2ea6e49dd2b41b81b8778e8a678a70735ad582"
+    "file": "luci-app-videoplayer_1.1.1_all.ipk",
+    "sha256": "cca48c544662109f721f176e2f8232927f33fe0e01aefb6ef02f83a4e6c20d48"
   },
   "architecture": "armeb_xscale",
   "codec": null,
@@ -11,5 +11,5 @@
   "openwrt_revision": "r29233-443ec4032a",
   "package_format": "ipk",
   "schema_version": 1,
-  "source_commit": "2d5fd26b38b82f5565e25425efa6133d7b1c79cc"
+  "source_commit": "5a7ab33e60e382e652d08039d888a2b34c225cbb"
 }
